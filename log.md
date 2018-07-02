@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: July 1st, 2018
+### Day 1: July 1st, 2018
 
-**Today's Progress**: Resester to [freeCodeCamp](https://www.freecodecamp.org/).
+**Today's Progress**: Register to [freeCodeCamp](https://www.freecodecamp.org/) and aloso started the Udemy course [The Web Developer Bootcamp](https://www.udemy.com/the-web-developer-bootcamp) from **asics os CSS**.
 
 **Thoughts:** I perform all the exersices of **Basic html & html5** and attempted a **Recurssion Problem** in javascript.
 
