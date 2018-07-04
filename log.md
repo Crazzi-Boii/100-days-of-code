@@ -16,3 +16,6 @@
 
 **Link to work:** [freeCodeCamp - Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css)
 
+### Day 3: July 3rd, 2018
+
+**Today's Progress**: Today i comleted the remaining [freeCodeCamp - Basic CSS](https://learn.freecodecamp.org/responsive-web-design/basic-css) exercises and also completed two exersises of my Bootcamp named **[ImageBlog](https://github.com/Crazzi-Boii/the-web-developer-bootcamp/tree/master/Solutions/ImageBlog) & [CSS Blog](https://github.com/Crazzi-Boii/the-web-developer-bootcamp/tree/master/Solutions/CSS%20Blog)**.
