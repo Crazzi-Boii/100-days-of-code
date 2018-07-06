@@ -27,3 +27,7 @@
 **Link to work:** 
 **1.** [Codepen - CSS Heart](https://codepen.io/crzzzi_boii/pen/QxRXgB)
 **2.** [Codepen - CSS Gradient wheel](https://codepen.io/crzzzi_boii/pen/xzNmLL)
+
+### Day 4: July 5th, 2018
+
+**Today's Progress**: Today i comleted upto 70% of [freeCodeCamp - Applied Accessibility](https://learn.freecodecamp.org/responsive-web-design/applied-accessibility) exercises.
